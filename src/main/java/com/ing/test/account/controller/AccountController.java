@@ -18,7 +18,7 @@ import java.time.LocalTime;
 @Controller
 public class AccountController {
     public static final int WORK_TIME_START_MINUTE=0;
-    public static final int WORK_TIME_START_HOUR=0;
+    public static final int WORK_TIME_START_HOUR=8;
     public static final int WORK_TIME_END_MINUTE=0;
     public static final int WORK_TIME_END_HOUR=17;
     @Autowired
