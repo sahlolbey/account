@@ -2,7 +2,7 @@ Install and Run ING Account web-based application
 
 # Getting from github
 1. download and install git for you platform from https://git-scm.com/downloads
-2. pull project repository using following command
+2. Get project repository using following command
 
 git clone https://github.com/sahlolbey/account
 
@@ -19,7 +19,7 @@ https://dev.mysql.com/downloads/mysql/
 
 # Maven
 1.Download Apache Maven 3.6.1 from https://maven.apache.org/download.cgi
-2.Use Maven Installation for your platform from https://maven.apache.org/install.html to install maven on your machine.
+2.Use Maven Installation guide for your platform from https://maven.apache.org/install.html to install maven on your machine.
 
 # Create Database
 1. You should remember your mysql db root password then change your directory to project directory at command prompt.
