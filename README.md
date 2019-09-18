@@ -1,4 +1,8 @@
-Install and Run ING Account web-based application
+# Preface
+This is a sample project to demonstrate my skills in Springboot, Spring MVV, BootStrap, Themeleaf.
+
+
+# Installation
 
 # Getting from github
 1. download and install git for you platform from https://git-scm.com/downloads
